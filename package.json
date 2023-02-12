@@ -7,16 +7,8 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MiguelGarcia98GitHub/Finance_React_Native_Phone_App_Back.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MiguelGarcia98GitHub/Finance_React_Native_Phone_App_Back/issues"
-  },
-  "homepage": "https://github.com/MiguelGarcia98GitHub/Finance_React_Native_Phone_App_Back#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
